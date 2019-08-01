@@ -3,5 +3,4 @@ def reverse_each_word(array)
   array.each   do |string|
   return_array << string.reverse
 end
-letters["do", "re", "mi"]
-reverse_each_word(letters)
+
